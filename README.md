@@ -1,2 +1,2 @@
 # ConZole
-A python scripted version of the windows Console Application
+A python scripted version of the windows "Console" Application
